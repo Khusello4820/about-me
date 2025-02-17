@@ -18,3 +18,8 @@ git branch -M main
 git remote add origin https://github.com/Khusello4820/about-me.git
 
 git push -u origin main 
+
+I commited for the second time to add the student-info.txt.
+I commited for the third time to add the report.md.
+
+I created a branch named feature/student-details.
